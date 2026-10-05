@@ -1,0 +1,16 @@
+#BlueJ class context
+#Sat Oct 03 16:56:45 BRT 2026
+comment0.target=Curso
+comment1.params=codigo nome duracao
+comment1.target=Curso(int, java.lang.String, int)
+comment2.target=int getCodigo()
+comment3.target=java.lang.String getNome()
+comment4.target=int getDuracao()
+comment5.params=codigo
+comment5.target=void setCodigo(int)
+comment6.params=nome
+comment6.target=void setNome(java.lang.String)
+comment7.params=duracao
+comment7.target=void setDuracao(int)
+comment8.target=void exibeDados()
+numComments=9

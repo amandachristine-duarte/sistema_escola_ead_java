@@ -1,0 +1,13 @@
+#BlueJ class context
+#Sat Oct 03 16:58:04 BRT 2026
+comment0.target=Mensalidade
+comment1.params=valor
+comment1.target=Mensalidade(double)
+comment2.target=double getValor()
+comment3.target=boolean isPago()
+comment4.params=valor
+comment4.target=void setValor(double)
+comment5.params=pago
+comment5.target=void setPago(boolean)
+comment6.target=void darBaixa()
+numComments=7
